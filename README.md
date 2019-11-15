@@ -18,6 +18,10 @@ HTML/CSS 공부를 위한 Clone Coding Study<br>
 - footer 등록
 - 정보 및 사이드 메뉴 추가 예정
 
+PM 4:15
+원페이지 웹사이트 제작
+기능 미구현 메인 템플릿 제작 완료
+
 
 
 
