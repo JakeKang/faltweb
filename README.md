@@ -24,7 +24,7 @@ HTML/CSS 공부를 위한 Clone Coding Study<br>
 
 기능 미구현 메인 템플릿 제작 완료
 
-Img Get 오류로 <img src=깃주소> 로 대체
+Img Get 오류로 img src=깃주소로 대체
 
 
 
